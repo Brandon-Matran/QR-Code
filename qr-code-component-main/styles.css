@@ -1,0 +1,35 @@
+body {
+    background-color: #d5e1ef;
+}
+
+
+
+.image {
+    width: 20vw;
+    border-radius: 30px;
+}
+.qr-code {
+
+    border: 30px solid white;
+    background-color: white;
+    border-radius: 30px;
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    align-content: center;
+    display: inline-block;
+
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+
+    display: inline-block;
+    align-content: center;
+
+}
